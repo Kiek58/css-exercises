@@ -1,0 +1,10 @@
+/* style.css */
+
+div[type=header] {
+    color: white;
+    background-color:red;
+  }
+  
+  p {
+    color: white;
+    }
