@@ -1,0 +1,25 @@
+/* style2.css */
+
+.class-text {
+    color: black;
+    background-color: rgb(236, 108, 132);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+      
+
+.cool-fontsize {
+    font-size: 24px
+}    
+  
+
+#bigblue {
+    color: #0c09b5;
+    font-size: xxx-large;
+}
+
+#another {
+  background-color: hsl(144,75%, 75%);
+  font-size: x-large;
+  font-weight: bold;
+}
+  
