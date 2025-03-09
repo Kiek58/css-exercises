@@ -1,0 +1,7 @@
+.container .text{
+    font-family: Helvetica, "Times Roman", sans-serif;
+    font-size: 16;
+    color: #E00000;
+    background-color: rgb(234, 234, 87);
+    text-align: center;
+}
