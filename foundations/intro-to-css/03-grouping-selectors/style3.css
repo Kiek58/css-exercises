@@ -1,0 +1,17 @@
+.click,
+.unclick {
+    font-family: Helvetica, "Times Roman", sans-serif;
+    font-size: 28px;
+}
+
+.click {
+  /* several unique declarations */
+  color: white;
+  background-color: black;
+}
+
+.unclick {
+  /* several unique declarations */
+  color: black;
+  background-color: rgb(228, 235, 119);
+}
